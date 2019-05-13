@@ -7,6 +7,7 @@
 ## EJERCICIO 1
 
 ![Ejercicio1](img/1.png)
+![Ejercicio1](img/1a.png)
 
 ## EJERCICIO 2
 
@@ -15,6 +16,7 @@
 ## EJERCICIO 3
 
 ![Ejercicio3](img/3.png)
+![Ejercicio3](img/3b.png)
 
 ## EJERCICIO 4
 
@@ -26,7 +28,8 @@
 
 ## EJERCICIO 6
 
-![Ejercicio6](img/6.png)
+![Ejercicio6](img/6a.png)
+![Ejercicio6](img/6b.png)
 
 ## EJERCICIO 7
 
